@@ -1,0 +1,19 @@
+.myclass-text{
+    background-color: rgb(255,99,71);
+    font-family: "Verdana", "Dejavu-Sans", sans-serif;
+}
+
+.myclass-text.big-class{
+    font-size: 24px;
+}
+
+#blueFont {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#greenBack {
+    background-color: rgb(110, 214, 157);
+    font-size: 24px;
+    font-weight: bold
+}
